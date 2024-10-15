@@ -1,0 +1,422 @@
+[
+  {
+    "Khodam": "Bebek",
+    "Descriptions": "Bebek adalah hewan yang hidup di air dan memiliki bulu yang lembut. Mereka dikenal karena suara yang unik dan kemampuan berenang yang baik."
+  },
+  {
+    "Khodam": "Ayam",
+    "Descriptions": "Ayam adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan bertelur dan suara yang khas."
+  },
+  {
+    "Khodam": "Buaya",
+    "Descriptions": "Buaya adalah hewan yang hidup di air dan memiliki kulit yang keras. Mereka dikenal karena kemampuan berenang yang baik dan gigi yang tajam."
+  },
+  {
+    "Khodam": "Gorila",
+    "Descriptions": "Gorila adalah hewan yang hidup di darat dan memiliki bulu yang lembut. Mereka dikenal karena kekuatan yang besar dan kemampuan berjalan dengan dua kaki."
+  },
+    {
+        "Khodam": "Kucing",
+        "Descriptions": "Kucing adalah hewan peliharaan yang dikenal karena sifatnya yang mandiri dan kemampuan berburu."
+    },
+    {
+        "Khodam": "Tikus",
+        "Descriptions": "Tikus adalah hewan kecil yang sering ditemukan di sekitar pemukiman manusia dan dikenal karena kecerdasannya."
+    },
+    {
+        "Khodam": "Kadal",
+        "Descriptions": "Kadal adalah reptil yang memiliki kemampuan untuk merayap dan sering ditemukan di daerah tropis."
+    },
+    {
+        "Khodam": "Kuda Nil",
+        "Descriptions": "Kuda Nil adalah mamalia besar yang hidup di perairan dan dikenal karena ukuran dan kekuatannya."
+    },
+    {
+        "Khodam": "Bunglon",
+        "Descriptions": "Bunglon terkenal dengan kemampuannya untuk mengubah warna kulitnya sesuai dengan lingkungan."
+    },
+    {
+        "Khodam": "Siput",
+        "Descriptions": "Siput adalah hewan moluska yang dikenal karena cangkangnya dan gerakan lambatnya."
+    },
+    {
+        "Khodam": "Koala",
+        "Descriptions": "Koala adalah marsupial yang hidup di pohon dan terkenal karena kebiasaannya makan daun eucalyptus."
+    },
+    {
+        "Khodam": "Kodok",
+        "Descriptions": "Kodok adalah amfibi yang dikenal dengan suaranya yang khas dan kemampuannya melompat."
+    },
+    {
+        "Khodam": "Monyet",
+        "Descriptions": "Monyet adalah primata yang dikenal karena kecerdasannya dan kemampuan sosialnya."
+    },
+    {
+        "Khodam": "Anjing",
+        "Descriptions": "Anjing adalah sahabat manusia yang dikenal karena loyalitas dan kemampuannya berinteraksi dengan manusia."
+    },
+  {
+    "Khodam": "Harimau",
+    "Descriptions": "Harimau adalah khodam yang gagah dan kuat, memiliki keberanian yang tinggi dan kemampuan untuk melindungi."
+  },
+  {
+    "Khodam": "Kuda",
+    "Descriptions": "Kuda adalah khodam yang cepat dan gesit, memiliki kemampuan untuk berlari dengan kecepatan tinggi dan melintasi jarak jauh."
+  },
+  {
+    "Khodam": "Komodo",
+    "Descriptions": "Komodo adalah khodam yang kuat dan berbahaya, memiliki kemampuan untuk membunuh dengan gigitan yang mematikan."
+  },
+  {
+    "Khodam": "Gajah",
+    "Descriptions": "Gajah adalah khodam yang besar dan kuat, memiliki kemampuan untuk mengingat dengan baik dan memiliki kebijaksanaan yang tinggi."
+  },
+  {
+    "Khodam": "Cicak",
+    "Descriptions": "Cicak adalah khodam yang gesit dan lincah, memiliki kemampuan untuk bergerak dengan cepat dan menghindari bahaya."
+  },
+  {
+    "Khodam": "Ular",
+    "Descriptions": "Ular adalah khodam yang licik dan berbahaya, memiliki kemampuan untuk menyelinap dan menyerang dengan cepat."
+  },
+  {
+    "Khodam": "Kura-kura",
+    "Descriptions": "Kura-kura adalah khodam yang lambat tapi pasti, memiliki kemampuan untuk bertahan hidup dalam waktu yang lama dan memiliki kekuatan yang stabil."
+  },
+  {
+    "Khodam": "Lele",
+    "Descriptions": "Lele adalah khodam yang gesit dan lincah, memiliki kemampuan untuk bergerak dengan cepat dan menghindari bahaya."
+  },
+  {
+    "Khodam": "Singa",
+    "Descriptions": "Singa adalah khodam yang gagah dan kuat, memiliki kemampuan untuk melindungi dan memiliki keberanian yang tinggi."
+  },
+  {
+    "Khodam": "Zebra",
+    "Descriptions": "Zebra adalah khodam yang gesit dan lincah, memiliki kemampuan untuk bergerak dengan cepat dan menghindari bahaya."
+  },  
+  {
+    "Khodam": "Naga",
+    "Descriptions": "Naga adalah hewan yang hidup di darat dan memiliki tubuh yang panjang. Mereka dikenal karena kemampuan mengeluarkan api dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Ikan",
+    "Descriptions": "Ikan adalah hewan yang hidup di air dan memiliki sisik yang keras. Mereka dikenal karena kemampuan berenang yang baik dan keanekaragaman spesies."
+  },
+  {
+    "Khodam": "Ubu-ubur",
+    "Descriptions": "Ubu-ubur adalah hewan yang hidup di air dan memiliki tubuh yang transparan. Mereka dikenal karena kemampuan berenang yang baik dan sengatan yang menyakitkan."
+  },
+  {
+    "Khodam": "Cacing",
+    "Descriptions": "Cacing adalah hewan yang hidup di tanah dan memiliki tubuh yang panjang. Mereka dikenal karena kemampuan menggali tanah dan keanekaragaman spesies."
+  },
+  {
+    "Khodam": "Semut",
+    "Descriptions": "Semut adalah hewan yang hidup di tanah dan memiliki tubuh yang kecil. Mereka dikenal karena kemampuan bekerja sama dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Udang",
+    "Descriptions": "Udang adalah hewan yang hidup di air dan memiliki kulit yang keras. Mereka dikenal karena kemampuan berenang yang baik dan kelezatan dagingnya."
+  },
+  {
+    "Khodam": "Musang",
+    "Descriptions": "Musang adalah hewan yang hidup di darat dan memiliki bulu yang lembut. Mereka dikenal karena kemampuan memanjat pohon dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Kecoak",
+    "Descriptions": "Kecoak adalah hewan yang hidup di tanah dan memiliki tubuh yang kecil. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Kupu-kupu",
+    "Descriptions": "Kupu-kupu adalah hewan yang hidup di udara dan memiliki sayap yang indah. Mereka dikenal karena kemampuan terbang yang baik dan keanekaragaman spesies."
+  },
+  {
+    "Khodam": "Laba-laba",
+    "Descriptions": "Laba-laba adalah hewan yang hidup di tanah dan memiliki tubuh yang kecil. Mereka dikenal karena kemampuan membuat jaring yang kompleks dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Elang",
+    "Descriptions": "Elang adalah hewan yang hidup di udara dan memiliki sayap yang lebar. Mereka dikenal karena kemampuan terbang yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Sapi",
+    "Descriptions": "Sapi adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan memberikan susu dan ke kuatan yang besar."
+  },
+  {
+    "Khodam": "Kambing",
+    "Descriptions": "Kambing adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan memberikan susu dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Kelinci",
+    "Descriptions": "Kelinci adalah hewan yang hidup di darat dan memiliki bulu yang lembut. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Belut",
+    "Descriptions": "Belut adalah hewan yang hidup di air dan memiliki tubuh yang panjang. Mereka dikenal karena kemampuan berenang yang baik dan kelezatan dagingnya."
+  },
+  {
+    "Khodam": "Berang-berang",
+    "Descriptions": "Berang-berang adalah hewan yang hidup di air dan memiliki tubuh yang besar. Mereka dikenal karena kemampuan berenang yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Hiu",
+    "Descriptions": "Hiu adalah hewan yang hidup di air dan memiliki tubuh yang besar. Mereka dikenal karena kemampuan berenang yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Paus",
+    "Descriptions": "Paus adalah hewan yang hidup di air dan memiliki tubuh yang besar. Mereka dikenal karena kemampuan berenang yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Lumba-lumba",
+    "Descriptions": "Lumba-lumba adalah hewan yang hidup di air dan memiliki tubuh yang besar. Mereka dikenal karena kemampuan berenang yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Burung Hantu",
+    "Descriptions": "Burung Hantu adalah hewan yang hidup di udara dan memiliki sayap yang lebar. Mereka dikenal karena kemampuan terbang yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Kakaktua",
+    "Descriptions": "Kakaktua adalah hewan yang hidup di udara dan memiliki sayap yang indah. Mereka dikenal karena kemampuan terbang yang baik dan keanekaragaman spesies."
+  },
+  {
+    "Khodam": "Merpati",
+    "Descriptions": "Merpati adalah hewan yang hidup di udara dan memiliki sayap yang indah. Mereka dikenal karena kemampuan terbang yang baik dan keanekaragaman spesies."
+  },
+  {
+    "Khodam": "Bebek",
+    "Descriptions": "Bebek adalah hewan yang hidup di air dan memiliki bulu yang lembut. Mereka dikenal karena suara yang unik dan kemampuan berenang yang baik."
+  },
+  {
+    "Khodam": "Ayam Kalkun",
+    "Descriptions": "Ayam Kalkun adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan bertelur dan suara yang khas."
+  },
+  {
+    "Khodam": "Kepiting",
+    "Descriptions": "Kepiting adalah hewan yang hidup di air dan memiliki kulit yang keras. Mereka dikenal karena kemampuan berenang yang baik dan kelezatan dagingnya."
+  },
+  {
+    "Khodam": "Lobster",
+    "Descriptions": "Lobster adalah hewan yang hidup di air dan memiliki kulit yang keras. Mereka dikenal karena kemampuan berenang yang baik dan kelezatan dagingnya."
+  },
+  {
+    "Khodam": "Ular Piton",
+    "Descriptions": "Ular Piton adalah hewan yang hidup di darat dan memiliki tubuh yang panjang. Mereka dikenal karena kemampuan menggulung mangsa dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Iguana",
+    "Descriptions": "Iguana adalah hewan yang hidup di darat dan memiliki kulit yang keras. Mereka dikenal karena kemampuan berjemur di bawah sinar matahari dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Salamander",
+    "Descriptions": "Salamander adalah hewan yang hidup di air dan memiliki kulit yang lembut. Mereka dikenal karena kemampuan berenang yang baik dan keanekaragaman spesies."
+  },
+  {
+    "Khodam": "Katak Pohon",
+    "Descriptions": "Katak Pohon adalah hewan yang hidup di pohon dan memiliki kulit yang lembut. Mereka dikenal karena kemampuan berlompat yang baik dan keanekaragaman spesies."
+  },
+  {
+    "Khodam": "Burung Pelikan",
+    "Descriptions": "Burung Pelikan adalah hewan yang hidup di udara dan memiliki sayap yang lebar. Mereka dikenal karena kemampuan terbang yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Burung Cendrawasih",
+    "Descriptions": "Burung Cendrawasih adalah hewan yang hidup di udara dan memiliki sayap yang indah. Mereka dikenal karena kemampuan terbang yang baik dan keanekaragaman spesies."
+  },
+  {
+    "Khodam": "Rubah",
+    "Descriptions": "Rubah adalah hewan yang hidup di darat dan memiliki bulu yang lembut. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Serigala",
+    "Descriptions": "Serigala adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Beruang",
+    "Descriptions": "Beruang adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Babi Hutan",
+    "Descriptions": "Babi Hutan adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Kijang",
+    "Descriptions": "Kijang adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Antelop",
+    "Descriptions": "Antelop adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Kudanil",
+    "Descriptions": "Kudanil adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Jerapah",
+    "Descriptions": "Jerapah adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Gajah Afrika",
+    "Descriptions": "Gajah Afrika adalah hewan yang hidup di darat dan memiliki tubuh yang besar. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Kanguru",
+    "Descriptions": "Kanguru adalah hewan yang hidup di darat dan memiliki kantung yang unik. Mereka dikenal karena kemampuan berlompat yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Koala",
+    "Descriptions": "Koala adalah hewan yang hidup di pohon dan memiliki bulu yang lembut. Mereka dikenal karena kemampuan berlompat yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Wombat",
+    "Descriptions": "Wombat adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Platipus",
+    "Descriptions": "Platipus adalah hewan yang hidup di air dan memiliki tubuh yang unik. Mereka dikenal karena kemampuan berenang yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Tarsius",
+    "Descriptions": "Tarsius adalah hewan yang hidup di pohon dan memiliki mata yang besar. Mereka dikenal karena kemampuan berlompat yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Orangutan",
+    "Descriptions": "Orangutan adalah hewan yang hidup di pohon dan memiliki bulu yang lembut. Mereka dikenal karena kemampuan berlompat yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Simba",
+    "Descriptions": "Simba adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Mandril",
+    "Descriptions": "Mandril adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Gelada",
+    "Descriptions": "Gelada adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Gorila Gunung",
+    "Descriptions": "Gorila Gunung adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Panda",
+    "Descriptions": "Panda adalah hewan yang hidup di darat dan memiliki bulu yang lembut. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Harimau Siberia",
+    "Descriptions": "Harimau Siberia adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Macan Tutul",
+    "Descriptions": "Macan Tutul adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Cheetah",
+    "Descriptions": "Cheetah adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Lynx",
+    "Descriptions": "Lynx adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Jaguar",
+    "Descriptions": "Jaguar adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Ocelot",
+    "Descriptions": "Ocelot adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Serval",
+    "Descriptions": "Serval adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Kucing Hutan",
+    "Descriptions": "Kucing Hutan adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Karacal",
+    "Descriptions": "Karacal adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Puma",
+    "Descriptions": "Puma adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Rakun",
+    "Descriptions": "Rakun adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Binturong",
+    "Descriptions": "Binturong adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Kuskus",
+    "Descriptions": "Kuskus adalah hewan yang hidup di pohon dan memiliki bulu yang lembut. Mereka dikenal karena kemampuan berlompat yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Tenggiling",
+    "Descriptions": "Tenggiling adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Luwak",
+    "Descriptions": "Luwak adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Civet",
+    "Descriptions": "Civet adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Kangguru Pohon",
+    "Descriptions": "Kangguru Pohon adalah hewan yang hidup di pohon dan memiliki kantung yang unik. Mereka dikenal karena kemampuan berlompat yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Anoa",
+    "Descriptions": "Anoa adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Babi Rusa",
+    "Descriptions": "Babi Rusa adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Kancil",
+    "Descriptions": "Kancil adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Tarsius",
+    "Descriptions": "Tarsius adalah hewan yang hidup di pohon dan memiliki mata yang besar. Mereka dikenal karena kemampuan berlompat yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Bekantan",
+    "Descriptions": "Bekantan adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Monyet Ekor Panjang",
+    "Descriptions": "Monyet Ekor Panjang adalah hewan yang hidup di pohon dan memiliki ekor yang panjang. Mereka dikenal karena kemampuan berlompat yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Lutung",
+    "Descriptions": "Lutung adalah hewan yang hidup di pohon dan memiliki bulu yang lembut. Mereka dikenal karena kemampuan berlompat yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Orangutan Kalimantan",
+    "Descriptions": "Orangutan Kalimantan adalah hewan yang hidup di pohon dan memiliki bulu yang lembut. Mereka dikenal karena kemampuan berlompat yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Burung Maleo",
+    "Descriptions": "Burung Maleo adalah hewan yang hidup di udara dan memiliki sayap yang lebar. Mereka dikenal karena kemampuan terbang yang baik dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Kasuar",
+    "Descriptions": "Kasuar adalah hewan yang hidup di darat dan memiliki bulu yang keras. Mereka dikenal karena kemampuan berlari yang cepat dan kekuatan yang besar."
+  },
+  {
+    "Khodam": "Kakaktua Raja",
+    "Descriptions": "Kakaktua Raja adalah hewan yang hidup di udara dan memiliki sayap yang indah. Mereka dikenal karena kemampuan terbang yang baik dan keanekaragaman spesies."
+  },
+  {
+    "Khodam": "Cendrawasih Kuning Besar",
+    "Descriptions": "Cendrawasih Kuning Besar adalah hewan yang hidup di udara dan memiliki sayap yang indah. Mereka dikenal karena kemampuan terbang yang baik dan keanekaragaman spesies."
+  }
+]
