@@ -1,3 +1,0 @@
-{
-	"name": "Fxyz Botz - MD"
-}
